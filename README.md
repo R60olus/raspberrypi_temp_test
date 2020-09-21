@@ -1,2 +1,1 @@
-# raspberrypi_temp_test
-Temp. Test Script from ExplainingComputers (Youtube)
+Use this script to make the temperatures of your Raspberry Pis comparable. Run this script in different cases or compare your results with those of ExplainingComputers from Youtube (https://www.youtube.com/channel/UCbiGcwDWZjz05njNPrJU7jA).
