@@ -1,10 +1,7 @@
 #!/bin/bash
 #
-# ExplainingComputers Termp. comparission Script
-# 1. Install sysbench with 'sudo apt-get install sysbench -y'
-# 2. Make the script runable with 'chmod +x temp_test.sh'
-#
-# Version 1.0
+# ExplainingComputers (Youtube) Script for temperature comparison 
+# Version 1.1
 
 clear
 

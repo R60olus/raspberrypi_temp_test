@@ -17,7 +17,7 @@ Run the Script:
 #COMPARISON 
 
 |Raspberry Pi Version|Overclocked|Case|min. Temp|average Temp|max. Temp|
-|----|----|----|----|----|
+|----|----|----|----|----|----|
 |RasPi 4 2GB|no|joy-it Design Gehäuse mit Doppellüfter für Raspberry Pi 4 (3.3V)|40.0°|57.0°|62.0°|
 |RasPi 4 2GB|no|Pimoroni Fan SHIM|34.0°|47.125°|50.0°|
 |RasPi 4 2GB|no|ICE Tower|29.0°|33.875°|35.0°|
