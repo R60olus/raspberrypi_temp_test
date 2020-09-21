@@ -12,3 +12,6 @@ If you have temperature values and want to share them with the community, just s
 
 ## make the script runable
 `chmod +x temp_test.sh`
+
+# Comparison
+
