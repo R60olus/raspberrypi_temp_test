@@ -15,3 +15,6 @@ If you have temperature values and want to share them with the community, just s
 
 # Comparison
 
+|Raspberry Pi Version|Case|min. Temp|average Temp|max. Temp|
+|----|----|----|----|----|
+|2GB|joy-it Design Gehäuse mit Doppellüfter für Raspberry Pi 4|40.0°|57.0°|62.0°|
