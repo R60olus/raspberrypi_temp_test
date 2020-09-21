@@ -3,22 +3,23 @@ Use this script to make the temperatures of your Raspberry Pis comparable. Run t
 
 If you have temperature values and want to share them with the community, just send me this and I will add them to the list.
 
-# INSTALL
-## install sysbench
+# INSTALL & RUN
+Just execute the following commands
 `sudo apt install sysbench`
-
-## install time
 `sudo apt install time`
-
-## make the script runable
 `chmod +x temp_test.sh`
 
-# Comparison
+Run the Script:
+`./temp_test.sh`
 
-|Raspberry Pi Version|Case|min. Temp|average Temp|max. Temp|
+**NOTE:** The script will take about 10 minutes to run.
+
+#COMPARISON 
+
+|Raspberry Pi Version|Overclocked|Case|min. Temp|average Temp|max. Temp|
 |----|----|----|----|----|
-|2GB|joy-it Design Gehäuse mit Doppellüfter für Raspberry Pi 4 (3.3V)|40.0°|57.0°|62.0°|
-|2GB|Pimoroni Fan SHIM|34.0°|47.125°|50.0°|
-|2GB|ICE Tower|29.0°|33.875°|35.0°|
-|2GB|FLIRC Case|38.0°|49.5°|54.0°|
-|2GB|TerraPi|36.0°|51.375°|54.0°|
+|RasPi 4 2GB|no|joy-it Design Gehäuse mit Doppellüfter für Raspberry Pi 4 (3.3V)|40.0°|57.0°|62.0°|
+|RasPi 4 2GB|no|Pimoroni Fan SHIM|34.0°|47.125°|50.0°|
+|RasPi 4 2GB|no|ICE Tower|29.0°|33.875°|35.0°|
+|RasPi 4 2GB|no|FLIRC Case|38.0°|49.5°|54.0°|
+|RasPi 4 2GB|no|TerraPi|36.0°|51.375°|54.0°|
