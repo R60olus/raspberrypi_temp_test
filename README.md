@@ -14,7 +14,7 @@ Run the Script:
 
 **NOTE:** The script will take about 10 minutes to run.
 
-#COMPARISON 
+# COMPARISON 
 
 |Raspberry Pi Version|Overclocked|Case|min. Temp|average Temp|max. Temp|
 |----|----|----|----|----|----|
