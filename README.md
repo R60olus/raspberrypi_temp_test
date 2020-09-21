@@ -6,7 +6,7 @@ If you have temperature values and want to share them with the community, just s
 # INSTALL & RUN
 Just execute the following commands
 
-`sudo apt install sysbench time -y`
+`sudo apt install sysbench -y`
 
 Make the script runable
 
