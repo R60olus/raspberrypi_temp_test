@@ -27,3 +27,4 @@ Run the Script:
 |RasPi 4 2GB|no|ICE Tower|29.0°|33.875°|35.0°|
 |RasPi 4 2GB|no|FLIRC Case|38.0°|49.5°|54.0°|
 |RasPi 4 2GB|no|TerraPi|36.0°|51.375°|54.0°|
+|RasPi 400 4GB|no|Raspberry Pi 400|39.4°C|50.3°|53.0°|
